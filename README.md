@@ -1,7 +1,7 @@
 ## Management System
 본 프로젝트는 React, Node.js 학습을 목적으로 만들어진 고객 관리 시스템입니다. 동빈나(https://www.youtube.com/channel/UChflhu32f5EUHlY7_SetNWw) 강의 실습을 목적으로 하고있습니다.
 
-========
+-----------
 
 # Getting Started with Create React App
 
