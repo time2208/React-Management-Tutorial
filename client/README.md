@@ -3,6 +3,13 @@
 
 -----------
 
+## react 라이프 사이클
+    - 1) construtor()
+    - 2) componentWillMount()
+    - 3) render()
+    - 4) componentDidMount()
+    - props or state => shouldComponentUpdate()
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
